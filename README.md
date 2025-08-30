@@ -8,16 +8,6 @@ This repository is a collection of browser automation workflows built with the [
 
 Automa is a free and open-source Chrome extension that allows you to automate tasks in your web browser. You can create workflows by connecting blocks to do things like fill out forms, take screenshots, scrape data, and much more, all without writing any code.
 
-🚀 Workflows in this Repository
--------------------------------
-
-Below is a list of the workflows currently stored here.
-
--   *(Add your workflow names and a brief description here)*
-
--   **Example Workflow:** Scrapes data from a sample website and saves it to a CSV file.
-
--   ...
 
 🛠️ How to Use
 --------------
